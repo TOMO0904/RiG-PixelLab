@@ -8,7 +8,6 @@ RiG++ PixelLabは、実写写真をドット絵に変換し、ゲーム用の背
 
 Python初心者でも操作できるように、GUI（グラフィカルユーザーインターフェース）を用意しています。
 
-![変換結果の比較](examples/new_photo_3stages.png)
 
 ## 主な機能
 
